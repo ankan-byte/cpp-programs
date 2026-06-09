@@ -1,6 +1,6 @@
 # C++ Programs
 
-C++ programs written while learning from Apna College playlist.
+C++ programs written.  
 Currently in first year CSE at SRM Ramapuram.
 
 ## Topics Covered
